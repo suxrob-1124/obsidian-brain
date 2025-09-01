@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Brain/Linux-OS/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks for Linux"
             }
           },
           {
@@ -152,30 +153,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "81d01a5609922151",
   "lastOpenFiles": [
+    "Brain/DesOPs/OSI/Канальный уровень.md",
+    "Brain/DesOPs/OSI Модель.md",
+    "Brain/DesOPs/OSI/Физический уровень.md",
     "Brain/DesOPs/Ansible.md",
     "Brain/Linux-OS/Linux.md",
     "images/Pasted image 20250708152349.png",
     "images",
-    "Brain/DesOPs/OSI Модель.md",
     "Brain/DesOPs/OSI/Frame (кадр).md",
     "Brain/Linux-OS",
-    "Brain/DesOPs/OSI/Физический уровень.md",
-    "Brain/DesOPs/OSI/Канальный уровень.md",
     "Brain/My brain.md",
     "Brain/DesOPs/OSI/Уровень приложения.md",
     "Brain/DesOPs/OSI/Уровень представления.md",
