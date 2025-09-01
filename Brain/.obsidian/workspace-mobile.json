@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "3638308ffff9b851",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ff71253c136e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72efdb48f211aebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DesOPs/OSI Модель.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI Модель"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7293fdf134dc73e7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "555631d87dd8eaa2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "772940d362d1431c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "62dec2c0ee845b0f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "e796f8d82852f59e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "498f3348f75291fa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df1ba92d79070c91",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "My brain.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "74bcfabfe9a4d90a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "My brain.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "c5cd3a84afd4e031",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "My brain.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "72efdb48f211aebb",
+  "lastOpenFiles": [
+    "DesOPs/OSI/Сетевой уровень.md",
+    "DesOPs/OSI Модель.md",
+    "DesOPs/Без названия.md",
+    "DesOPs/OSI/Frame (кадр).md",
+    "My brain.md",
+    "DesOPs/OSI/Уровень представления.md",
+    "DesOPs/OSI/Транспортный уровень.md",
+    "DesOPs/OSI/Сеансовый уровень.md",
+    "DesOPs/OSI/Уровень приложения.md",
+    "DesOPs/OSI/Физический уровень.md",
+    "DesOPs/OSI/Канальный уровень.md",
+    "DesOPs/OSI",
+    "DesOPs"
+  ]
+}

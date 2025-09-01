@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d4aac2a4e690f05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2793129a800520f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d01a5609922151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain/Linux-OS/Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8802d551335a45b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c404bae9003e36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be2643115b42b130",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9f53fe5ea93b0c59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "db7644459739dd68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "0702bad492d94e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2039ef7655b6cb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0734228be75abb5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b12d13c0a1d0f984",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "123a4212d89f4fc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e64d5a5a0c4a1c81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "81d01a5609922151",
+  "lastOpenFiles": [
+    "Brain/DesOPs/Ansible.md",
+    "Brain/Linux-OS/Linux.md",
+    "images/Pasted image 20250708152349.png",
+    "images",
+    "Brain/DesOPs/OSI Модель.md",
+    "Brain/DesOPs/OSI/Frame (кадр).md",
+    "Brain/Linux-OS",
+    "Brain/DesOPs/OSI/Физический уровень.md",
+    "Brain/DesOPs/OSI/Канальный уровень.md",
+    "Brain/My brain.md",
+    "Brain/DesOPs/OSI/Уровень приложения.md",
+    "Brain/DesOPs/OSI/Уровень представления.md",
+    "Brain/DesOPs/OSI/Сеансовый уровень.md",
+    "Brain/DesOPs/OSI/Транспортный уровень.md",
+    "Brain/DesOPs/OSI/Сетевой уровень.md",
+    "Brain/DesOPs/OSI",
+    "Brain/DesOPs"
+  ]
+}
